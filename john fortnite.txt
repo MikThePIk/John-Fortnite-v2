@@ -248,7 +248,7 @@
                         fontWeight: "700",
                         userSelect: "text",
                     },
-                    innerHTML: "GitHub - calvv",
+                    innerHTML: "GitHub - MikThePik",
                     onclick: () => window.open("https://github.com/ckaminski2026-dotcom/Calvv", "_blank").focus(),
                 }),
                 (controlButtons = createElement(
