@@ -2,7 +2,7 @@
 // @name         Blooket hacks
 // @namespace    http://tampermonkey.net/
 // @version      1.6.0
-// @author       rydenvr
+// @author       MikThePik
 // @license      MIT
 // @description  THE BEST
 // @match        *://*.blooket.com/*
